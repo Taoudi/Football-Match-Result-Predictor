@@ -1,2 +1,3 @@
 # Football Match Result Predictor
- Kaggle competition!
+
+Predicting football match result using lagged input and XGBoost !
